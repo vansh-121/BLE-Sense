@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.BLEGame" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">#EF9A9A</item> 
+        <item name="colorPrimaryVariant">#B71C1C</item>
+        <item name="colorSecondary">#90CAF9</item> 
+        <item name="colorSecondaryVariant">#0D47A1</item>
+
+        
+        <item name="colorBackground">?attr/colorBackground</item>
+        <item name="colorSurface">?attr/surfaceColor</item>
+        
+
+        
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:textColorSecondary">#B0BEC5</item>
+
+        
+        <item name="android:statusBarColor">#0B0B0B</item>
+        <item name="android:navigationBarColor">#0F0E0E</item>
+    </style>
+</resources>

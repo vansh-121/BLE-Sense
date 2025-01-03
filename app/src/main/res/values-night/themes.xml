@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme -->
+    <style name="Theme.BLEGame" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary Marvel colors for night mode -->
+        <item name="colorPrimary">#EF9A9A</item> <!-- Lighter Marvel Red -->
+        <item name="colorPrimaryVariant">#B71C1C</item>
+        <item name="colorSecondary">#90CAF9</item> <!-- Lighter Marvel Blue -->
+        <item name="colorSecondaryVariant">#0D47A1</item>
+
+        <!-- Background and Surface -->
+        <item name="colorBackground">?attr/colorBackground</item>
+        <item name="colorSurface">?attr/surfaceColor</item>
+        <!-- Use colorSurface, not android:attr/colorSurface -->
+
+        <!-- Text Colors -->
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:textColorSecondary">#B0BEC5</item>
+
+        <!-- Customize status and navigation bar -->
+        <item name="android:statusBarColor">#0B0B0B</item>
+        <item name="android:navigationBarColor">#0F0E0E</item>
+    </style>
+</resources>

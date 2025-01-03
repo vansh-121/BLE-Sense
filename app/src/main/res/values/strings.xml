@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BLE Game</string>
+    <string name="start_game">Start Game</string>
+
+    <string name="bluetooth_permission_required">Bluetooth permission required</string>
+    <string name="welcome_to_ble_game">Welcome to Games Section</string>
+    <string name="single_player">Single Player</string>
+    <string name="multiplayer">Multi Player</string>
+    <string name="nearby_ble_devices">Nearby BLE Devices</string>
+    <string name="device_name">Device Name</string>
+
+    <string name="selected_device">Selected Device:</string>
+    <string name="rssi_value">RSSI: %1$d dBm</string>
+    <string name="keep_moving_to_find_the_device">Keep moving to find the device</string>
+    <string name="back">Back</string>
+    <string name="device_state">Device State</string>
+    <string name="character_image">char_image</string>
+    <string name="device_info">Device Info</string>
+    <string name="advertising_data">Advertising Data:</string>
+    <string name="bluetooth_status">Bluetooth Status:</string>
+    <string name="game_title">Game Section:</string>
+    <string name="footer_text">Footer:</string>
+    <string-array name="device_types">
+        <item>SHT40</item>
+        <item>LIS2DH</item>
+    </string-array>
+</resources>

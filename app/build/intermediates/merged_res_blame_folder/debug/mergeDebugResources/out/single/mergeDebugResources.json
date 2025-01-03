@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_avengers_bg.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\avengers_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_white_auto_renewal.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\white_auto_renewal.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_hela.jpeg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\hela.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\layout_activitymain.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\layout\\activitymain.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_hulk3.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\hulk3.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_thor.jpeg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\thor.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_ic_bluetooth.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\ic_bluetooth.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_spider_man.jpeg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\spider_man.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\layout_ble_device_list.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\layout\\ble_device_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_game_bg1.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\game_bg1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_a.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\a.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_captain_marvel.jpeg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\captain_marvel.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\font_archivo_semibold.ttf.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\font\\archivo_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_game_bg3.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\game_bg3.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_iron_man1.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\iron_man1.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\layout_activity_gameplay.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\layout\\activity_gameplay.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_universe_1.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\universe_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_marvel3.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\marvel3.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\layout-land_activity_welcome.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\layout-land\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_popup_device_found.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\popup_device_found.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\anim_scale.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\anim\\scale.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_hulk2.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\hulk2.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_shape_bg2.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\shape_bg2.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\layout_item_device_card.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\layout\\item_device_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_wasp.jpeg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\wasp.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_game_bg.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\game_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_popup_background.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\popup_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_plain_blue.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\plain_blue.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\layout_popup_device_found.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\layout\\popup_device_found.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_shape_bg1.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\shape_bg1.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_game1_bg.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\game1_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_custom_spinner_background.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\custom_spinner_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_ic_back_arrow.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\ic_back_arrow.xml"
+    },
+    {
+        "merged": "com.example.blegame.app-debug-44:/layout_activitymain.xml.flat",
+        "source": "com.example.blegame.app-main-46:/layout/activitymain.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_images.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\images.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_scarlet_witch.jpeg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\scarlet_witch.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_baseline_autorenew_24.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\baseline_autorenew_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_default_character.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\default_character.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_captain_america.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\captain_america.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_ironman.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\ironman.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\layout_game_device_list.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\layout\\game_device_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_hulk.jpeg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\hulk.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_bg_new.avif.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\bg_new.avif"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_iron_man.jpeg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\iron_man.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_logoble.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\logoble.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_notfound.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\notfound.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_black_widow.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\black_widow.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_spinner_background.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\spinner_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\layout_activity_advertising_data.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\layout\\activity_advertising_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_marvel.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\marvel.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\font_adlam_display.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\font\\adlam_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_game_bg2.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\game_bg2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\layout_activity_startgame.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\layout\\activity_startgame.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_bg_new2.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\bg_new2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_device_found_image.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\device_found_image.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-debug-44:\\drawable_marvel2.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.blegame.app-main-46:\\drawable\\marvel2.jpg"
+    }
+]

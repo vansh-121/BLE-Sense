@@ -1,0 +1,96 @@
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardBackgroundColor="#D3D3D3"
+    android:layout_margin="8dp"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="4dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <!-- Character Image -->
+
+        <!-- Device Name -->
+
+        <!-- Device Address -->
+
+        <ImageView
+            android:id="@+id/characterImageView"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginStart="8dp"
+            android:contentDescription="@string/character_image"
+            android:scaleType="centerCrop"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0"
+            tools:src="@drawable/notfound" />
+
+        <TextView
+            android:id="@+id/deviceNameTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/archivo_semibold"
+            android:text="Device Name"
+            android:textColor="@android:color/black"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.785"
+            app:layout_constraintStart_toEndOf="@id/characterImageView"
+            app:layout_constraintTop_toTopOf="@id/characterImageView"
+            tools:layout_conversion_absoluteHeight="20dp" />
+
+        <TextView
+            android:id="@+id/deviceMacAddressTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Device Address"
+            android:fontFamily="@font/archivo_semibold"
+            android:textColor="@android:color/black"
+            android:textSize="14sp"
+            app:layout_constraintStart_toStartOf="@id/deviceNameTextView"
+            app:layout_constraintTop_toBottomOf="@id/deviceNameTextView"
+            app:layout_constraintEnd_toEndOf="@id/deviceNameTextView"
+            tools:layout_conversion_absoluteHeight="20dp" />
+
+        <!-- RSSI -->
+
+        <TextView
+            android:id="@+id/deviceRssi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="RSSI: -$ dBm"
+            android:fontFamily="@font/archivo_semibold"
+            android:textSize="12sp"
+            android:textColor="@android:color/black"
+            app:layout_constraintStart_toStartOf="@id/deviceMacAddressTextView"
+            app:layout_constraintTop_toBottomOf="@id/deviceMacAddressTextView"
+            app:layout_constraintEnd_toEndOf="@id/deviceMacAddressTextView"
+            tools:layout_conversion_absoluteHeight="20dp" />
+
+
+        <TextView
+            android:id="@+id/foundLabelTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="[Found]"
+            android:textSize="14sp"
+            android:textColor="@android:color/holo_green_dark"
+            android:visibility="gone"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>

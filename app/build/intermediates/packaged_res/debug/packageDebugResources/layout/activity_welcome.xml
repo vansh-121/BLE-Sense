@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_new2">
+
+    <!-- Back Arrow Button -->
+    <ImageButton
+        android:id="@+id/backButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:contentDescription="@string/back"
+        android:src="@drawable/ic_back_arrow"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Single Player Text -->
+
+    <!-- Single Player Button -->
+
+    <!-- Multiplayer Button -->
+
+    <!-- Multiplayer Text -->
+
+    <TextView
+        android:id="@+id/singlePlayerText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:fontFamily="@font/archivo_semibold"
+        android:shadowColor="#000000"
+        android:shadowDx="2"
+        android:shadowDy="2"
+        android:shadowRadius="4"
+        android:text="SINGLE PLAYER"
+        android:textColor="#FFED22"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@id/singlePlayerButton"
+        app:layout_constraintEnd_toEndOf="@id/singlePlayerButton"
+        app:layout_constraintHorizontal_bias="0.56"
+        app:layout_constraintStart_toStartOf="@id/singlePlayerButton" />
+
+    <ImageView
+        android:id="@+id/singlePlayerButton"
+        android:layout_width="149dp"
+        android:layout_height="158dp"
+        android:layout_marginTop="108dp"
+        android:contentDescription="@string/single_player"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.183"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/backButton" />
+
+    <ImageView
+        android:id="@+id/multiPlayerButton"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="124dp"
+        android:contentDescription="@string/multiplayer"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.831"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/singlePlayerButton" />
+
+    <TextView
+        android:id="@+id/multiPlayerText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:fontFamily="@font/archivo_semibold"
+        android:shadowColor="#000000"
+        android:shadowDx="2"
+        android:shadowDy="2"
+        android:shadowRadius="4"
+        android:text="MULTIPLAYER"
+        android:textColor="#FFEB3B"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@id/multiPlayerButton"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@id/multiPlayerButton"
+        app:layout_constraintTop_toBottomOf="@id/multiPlayerButton" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

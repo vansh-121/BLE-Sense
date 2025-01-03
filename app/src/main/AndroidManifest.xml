@@ -1,0 +1,53 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!--  Permissions  -->
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_SCAN"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE"/>
+
+    <!--  Feature  -->
+    <uses-feature android:name="android.hardware.bluetooth_le" android:required="true"/>
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BLEGame"
+        android:usesCleartextTraffic="true"
+        android:requestLegacyExternalStorage="true"
+        tools:targetApi="31">
+
+        <!--  Define MainActivity as the launcher activity  -->
+        <activity android:name=".MainActivity" android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".BLEAppActivity" android:exported="true"> </activity>
+        <activity android:name=".AdvertisingDataActivity" android:exported="true"> </activity>
+        <activity android:name=".ServiceListActivity" android:exported="true"> </activity>
+        <!--  GameplayActivity without the MAIN action  -->
+        <activity android:name=".StartGameActivity" android:exported="true"> </activity>
+        <activity android:name=".GameplayActivity" android:exported="true"> </activity>
+        <!--  Other activities  -->
+        <activity android:name=".WelcomeActivity" android:exported="true"/>
+        <activity android:name=".GameDeviceListActivity" android:exported="true"/>
+        <activity android:name=".MultiplayerActivity" android:exported="true"/>
+        <activity android:name=".SpeedometerActivity" android:exported="true"/>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+</manifest>

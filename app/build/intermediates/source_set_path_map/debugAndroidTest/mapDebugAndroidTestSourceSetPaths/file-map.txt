@@ -1,0 +1,6 @@
+com.example.blegame.test.app-tracing-1.2.0-0 C:\Users\DELL\.gradle\caches\8.9\transforms\1502000a2ca5087055a29c96db468e71\transformed\tracing-1.2.0\res
+com.example.blegame.test.app-core-1.6.1-1 C:\Users\DELL\.gradle\caches\8.9\transforms\76c3d967c09f59e4457b78dfc5def521\transformed\core-1.6.1\res
+com.example.blegame.test.app-androidTest-2 C:\Users\DELL\Downloads\BLEGame\BLEGame\app\build\generated\res\resValues\androidTest\debug
+com.example.blegame.test.app-mergeDebugAndroidTestResources-3 C:\Users\DELL\Downloads\BLEGame\BLEGame\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.blegame.test.app-mergeDebugAndroidTestResources-4 C:\Users\DELL\Downloads\BLEGame\BLEGame\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.blegame.test.app-debugAndroidTest-5 C:\Users\DELL\Downloads\BLEGame\BLEGame\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
